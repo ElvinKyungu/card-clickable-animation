@@ -4,7 +4,7 @@
 
 <template>
   <main class="bg-gray-900 flex items-center justify-center h-screen w-full">
-    <section class="mx-[35rem] py-5 relative w-1/2 shadow rounded-xl bg-gray-800">
+    <section class="py-5 relative lg:w-1/2 md:w-[70%] w-full shadow rounded-xl bg-gray-800">
       <Card
         image="https://animations.dev/how-i-use-framer-motion/how-i-code-animations/pirate.png"
         title="Pirates in the jungle"
